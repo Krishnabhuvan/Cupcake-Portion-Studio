@@ -16,13 +16,6 @@ This version is refactored for **Arena evaluation** — optimized for performanc
 
 ---
 
-## 🚀 Live Demo
-
-🔗 **[View on GitHub Pages](https://Krishnabhuvan.github.io/Cupcake-Portion-Studio/)**  
-*(Make sure GitHub Pages is enabled under Settings → Pages → Branch: `main` → `/ (root)`)*
-
----
-
 ## ✨ Features
 
 ✅ **Real-time scaling** — Adjust servings between 1 and 100 cupcakes  
@@ -49,14 +42,6 @@ This version is refactored for **Arena evaluation** — optimized for performanc
 
 ---
 
-## 🖥️ Preview
-
-![Cupcake Portion Studio Screenshot](assets/screenshot.png)
-
-*(Tip: Add your own screenshot inside an `assets/` folder and update this path!)*
-
----
-
 ## 🧠 How It Works
 
 1. Choose your base cupcake recipe.  
@@ -66,7 +51,4 @@ This version is refactored for **Arena evaluation** — optimized for performanc
 5. Save your recipes locally or export them as JSON.  
 6. Share your top baking score — watch confetti fly 🎉  
 
----
-
-## 🧾 Project Structure
 
